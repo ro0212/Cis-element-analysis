@@ -6,8 +6,11 @@ type command : make
 followed by: ./main
 
 To delete generated .txt file: rm -f *.txt
----------------------------------------------
+
+
+
 **CIS ELEMENTS ANALYSIS FINAL REPORT**
+---------------------------------------------
 Rohit Pagar (2021B1A72139G)
 Jaiaditya Agarwal (2021B1A72138G)
 
